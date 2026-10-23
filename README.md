@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`STALKER-Clear-Sky-Save-Manager` · Updated: 2026-10-23
+`STALKER-Clear-Sky-Save-Manager` · Updated: 2026-10-24
 
 **Tags:** `stalker-clear-sky` `save-manager` `survival` `rpg` `steam`
